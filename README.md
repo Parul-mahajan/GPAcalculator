@@ -26,7 +26,9 @@ Used over 31k times over a span of 3-4 days.
     git clone https://github.com/Jaydeep-P/GPAcalculator.git
     npm i
     npm run dev
-    
+
+
+    Running GA 
 
  
 
